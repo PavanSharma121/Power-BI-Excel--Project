@@ -10,9 +10,11 @@ Key Insights:
 Top-Selling Product Discovery:
 
 Identified the standout top-selling product, commanding a substantial 25% share of total revenue.
+
 Customer Segmentation Impact:
 
 Strategically segmented customers by age, leading to a remarkable 15% increase in overall revenue through targeted marketing.
+
 Event-Based Analysis:
 
 Implemented event-based analysis, revealing a striking 30% surge in evening sales.
