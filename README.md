@@ -7,22 +7,22 @@ Transformed Lazy-Mojo Cafe's data analysis approach using Excel and Power BI, re
 
 Key Insights:
 
-Top-Selling Product Discovery:
+1.Top-Selling Product Discovery:
 
 Identified the standout top-selling product, commanding a substantial 25% share of total revenue.
 
-Customer Segmentation Impact:
+2.Customer Segmentation Impact:
 
 Strategically segmented customers by age, leading to a remarkable 15% increase in overall revenue through targeted marketing.
 
-Event-Based Analysis:
+3.Event-Based Analysis:
 
 Implemented event-based analysis, revealing a striking 30% surge in evening sales.
 Optimized business strategies for peak performance based on the insights obtained.
 
 
 Technologies Used:
-Excel
+Excel,
 Power BI
 
 
